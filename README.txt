@@ -1,4 +1,4 @@
-Name: 			Jacob Henry & Adam Weaver
+Author(s): 		Jacob Henry & Adam Weaver
 Institution:		Slippery Rock University of Pennsylvania
 Course:			Cpsc 370
 Instructor:		Dr. Conlon
