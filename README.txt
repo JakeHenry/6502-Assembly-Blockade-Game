@@ -9,8 +9,9 @@
 ;			surfaces. The first player to collide with anything
 ; 			loses. Have a good time. 
 ; Specifics:		Game should be run using "Symon Simulator version 
-;			1.1.0" locally on a Microsoft Windows operating system
-;			and assembled using SB-Assembler "sbasm". 6502.org
+;			1.1.0" locally on a Microsoft Windows operating system. More information on
+;                      Symon Simulator can be found at https://github.com/sethm/symon.
+;			and assembled using SB-Assembler "sbasm" from sbprojects.com. 6502.org
 ;			and easy6502.com were referenced and adapted from 
 ;  			during production of this program.
 ; ***Note:		Should the game run too fast or too slow on your system,
