@@ -1,8 +1,8 @@
-; Name: 			Jacob Henry & Adam Weaver
-; Course:			Cpsc 370
-; Instructor:			Dr. Conlon
-; Date Started:			Feb 3, 2015
-; Last Mod:			April 8, 2015
+; Name: 		Jacob Henry & Adam Weaver
+; Course:		Cpsc 370
+; Instructor:		Dr. Conlon
+; Date Started:		Feb 3, 2015
+; Last Mod:		April 8, 2015
 ; Purpose of Program:	Classic game of blockade written in 6502 assembly. 
 ;			Two player game. Drive the snakes around the screen 
 ;			for as long as possible without colliding with any 
@@ -14,8 +14,8 @@
 ;			and easy6502.com were referenced and adapted from 
 ;  			during production of this program.
 
-	.CR 6502	; Assemble 6502 Language
-	.LI on,toff	; Listing on, no timings included, options separated by commas
+	.CR 6502		; Assemble 6502 Language
+	.LI on,toff		; Listing on, no timings included, options separated by commas
 	.TF blockade.prg,BIN	; Object file and format
 
 ;______________________________________________________________________________
@@ -33,8 +33,8 @@ snake1head 	= 	$10
 snake2head 	= 	$12
 
 ;What each snake will look like
-snake1image = 	snake2head+2
-snake2image =	snake1image+1
+snake1image 	= 	snake2head+2
+snake2image 	=	snake1image+1
 
 ;Key that each player presses
 s1keypressed	=	snake2image+1
