@@ -48,7 +48,7 @@ blockade.asm as needed until your computer's speed makes the game playable. You 
 to remove some NOP operators as well if it runs too slow. Basically, manipulate the 'stall' 
 method as needed.
 
-.     __                 __
+      __                 __
      (  |               |  )
   ____\  \             /  /_____
  (____ _) \           /   (_____)
