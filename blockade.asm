@@ -13,6 +13,9 @@
 ;			and assembled using SB-Assembler "sbasm". 6502.org
 ;			and easy6502.com were referenced and adapted from 
 ;  			during production of this program.
+; ***Note:		Should the game run too fast or too slow on your system,
+;			the stall subroutine can be fiddled with to allow more
+;			or less NOP's to better fit your computer speed.
 
 	.CR 6502		; Assemble 6502 Language
 	.LI on,toff		; Listing on, no timings included, options separated by commas
