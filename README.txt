@@ -11,13 +11,10 @@ Purpose of Program:	Classic game of blockade written in 6502 assembly.
  			loses. Have a good time. 
 Specifics:		Game should be run using "Symon Simulator version 
 			1.1.0" locally on a Microsoft Windows operating system. More information on
-                       Symon Simulator can be found at https://github.com/sethm/symon.
+                       	Symon Simulator can be found at https://github.com/sethm/symon.
 			It should be assembled using SB-Assembler "sbasm" from sbprojects.com. 6502.org
 			and easy6502.com were referenced and adapted from 
   			during production of this program.
-***Note:		Should the game run too fast or too slow on your system,
-		        the stall subroutine can be fiddled with to allow more
-			or less NOP's to better fit your computer speed.
 
 
 
@@ -26,6 +23,7 @@ The included sbasm .zip file is Version 3 from sbprojects.com.
 
 Installation Guide:
 http://www.sbprojects.com/sbasm/install.php
+
 
 
 
