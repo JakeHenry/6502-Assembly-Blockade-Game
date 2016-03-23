@@ -17,3 +17,14 @@
 ; ***Note:		Should the game run too fast or too slow on your system,
 ;		        the stall subroutine can be fiddled with to allow more
 ;			or less NOP's to better fit your computer speed.
+
+
+
+SBASM
+The included sbasm .zip file is Version 3 from sbprojects.com.
+
+Installation Guide:
+http://www.sbprojects.com/sbasm/install.php
+
+
+
